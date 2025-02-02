@@ -9,6 +9,9 @@ I'm a Computer Science student at Kasetsart University Sriracha Campus [CS26]
 Python, R, C, C++, Java, SQL, HTML  
 **Proficiency Level:** Intermediate  
 
+### Mobile Development  
+Flutter (Dart), Android (Kotlin)  
+
 ### Computer Programs  
 Microsoft Office (Word, Excel, PowerPoint)  
 
