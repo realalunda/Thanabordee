@@ -4,8 +4,19 @@ I'm Thanabordee, or you can call me Bastackle.
 Computer Science at Kasetsart University Sriracha Campus [CS26]  
 
 ## Skills and Tools  
-- Mobile Development: Flutter, Android (Kotlin)  
-- UX/UI: Figma, Adobe XD  
-- Programming Languages: Dart, Java, JavaScript, Python, SQL, C++  
-- Tools & Technologies: React, Firebase, Git, MySQL  
-- Special Interests: Front-End Development, Mobile App Development, UX/UI Design, IoT  
+
+### Coding Languages  
+Python, R, C, C++, Java, SQL, HTML  
+**Proficiency Level:** Intermediate  
+
+### Computer Programs  
+Microsoft Office (Word, Excel, PowerPoint)  
+
+### Development Tools  
+Visual Studio, Eclipse, NetBeans, GitHub, Selenium  
+
+### Design & Testing Tools  
+Figma, Postman, RStudio, IoT (Arduino)  
+
+## Contact Me  
+Email: [thanabordee.bs@gmail.com](mailto:thanabordee.bs@gmail.com)
