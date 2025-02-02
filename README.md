@@ -1,7 +1,7 @@
 # Hi, I’m Thanabordee  
 
-I'm Thanabordee, or you can call me Bastackle.  
-Computer Science at Kasetsart University Sriracha Campus [CS26]  
+You can call me Peak.  
+I'm a Computer Science student at Kasetsart University Sriracha Campus [CS26]
 
 ## Skills and Tools  
 
